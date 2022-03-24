@@ -1,0 +1,16 @@
+C:\Users\Ramal\Desktop\C# Projects\Indexer\Indexer\bin\Debug\net5.0\Indexer.exe
+C:\Users\Ramal\Desktop\C# Projects\Indexer\Indexer\bin\Debug\net5.0\Indexer.deps.json
+C:\Users\Ramal\Desktop\C# Projects\Indexer\Indexer\bin\Debug\net5.0\Indexer.runtimeconfig.json
+C:\Users\Ramal\Desktop\C# Projects\Indexer\Indexer\bin\Debug\net5.0\Indexer.runtimeconfig.dev.json
+C:\Users\Ramal\Desktop\C# Projects\Indexer\Indexer\bin\Debug\net5.0\Indexer.dll
+C:\Users\Ramal\Desktop\C# Projects\Indexer\Indexer\bin\Debug\net5.0\Indexer.pdb
+C:\Users\Ramal\Desktop\C# Projects\Indexer\Indexer\obj\Debug\net5.0\Indexer.csproj.AssemblyReference.cache
+C:\Users\Ramal\Desktop\C# Projects\Indexer\Indexer\obj\Debug\net5.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramal\Desktop\C# Projects\Indexer\Indexer\obj\Debug\net5.0\Indexer.AssemblyInfoInputs.cache
+C:\Users\Ramal\Desktop\C# Projects\Indexer\Indexer\obj\Debug\net5.0\Indexer.AssemblyInfo.cs
+C:\Users\Ramal\Desktop\C# Projects\Indexer\Indexer\obj\Debug\net5.0\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\Ramal\Desktop\C# Projects\Indexer\Indexer\obj\Debug\net5.0\Indexer.dll
+C:\Users\Ramal\Desktop\C# Projects\Indexer\Indexer\obj\Debug\net5.0\refint\Indexer.dll
+C:\Users\Ramal\Desktop\C# Projects\Indexer\Indexer\obj\Debug\net5.0\Indexer.pdb
+C:\Users\Ramal\Desktop\C# Projects\Indexer\Indexer\obj\Debug\net5.0\Indexer.genruntimeconfig.cache
+C:\Users\Ramal\Desktop\C# Projects\Indexer\Indexer\obj\Debug\net5.0\ref\Indexer.dll
